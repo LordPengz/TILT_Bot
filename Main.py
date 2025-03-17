@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from discord import Intents, Client, Message
 from responses import get_response
 import praw
-from random import choice, randint
+
 
 
 
