@@ -1,4 +1,3 @@
-#from lib2to3.fixer_util import is_probably_builtin
 from typing import Final
 import os
 from dotenv import load_dotenv
