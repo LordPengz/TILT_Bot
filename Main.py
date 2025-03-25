@@ -1,3 +1,5 @@
+#FOR PRIVATE GITHUB IF YOU FIND THIS AND DONT BELONG HERE, I WILL BE VERY SAD --> :(
+
 from typing import Final
 import os
 from dotenv import load_dotenv

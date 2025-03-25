@@ -1,3 +1,6 @@
+#FOR PRIVATE GITHUB IF YOU FIND THIS AND DONT BELONG HERE, I WILL BE VERY SAD --> :(
+
+
 def get_response(user_input: str) -> str:   #this will take the users string input and return it as a string
     lowered: str = user_input.lower() #Python is case-sensitive, so any user input will be processed in lower case
 
